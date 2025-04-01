@@ -12,3 +12,4 @@ secondNumber = 2
 sum = firstNumber
 
 print("The sum of the two numbers is " , sum)
+print("The product of the two numbers is ", firstNumber * secondNumber)
