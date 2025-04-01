@@ -2,8 +2,13 @@
 # Jim Rhodes
 4/1/2025
 
-x = 1
-y = 2
-z = x + y
+# Variables
+# Integer firstNumber
+# Integer secondNumber
+# Integer sum
 
-print("The sum of the two numbers is " , z)
+firstNumber = 1
+secondNumber = 2
+sum = firstNumber
+
+print("The sum of the two numbers is " , sum)
