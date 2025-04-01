@@ -1,3 +1,7 @@
 # My Program
 # Jim Rhodes
 4/1/2025
+
+x = 1
+y = 2
+z = x + y
